@@ -6,6 +6,13 @@
 
 The Personal Finance Dashboard is a PowerBI project designed to empower users with insightful tools for analyzing spending and income patterns. By providing a comprehensive view of their financial data, users can make informed decisions to optimize their finances and achieve their financial goals. This repository contains the code and resources used to create the dashboard.
 
+
+
+
+https://github.com/Himanshgit5458/Personal-Finance-Analysis/assets/96855684/b11b9b65-c8fd-4f1c-a859-b2ebc3fb55ab
+
+
+
 ## Project Steps
 
 ### 1. Data Collection
