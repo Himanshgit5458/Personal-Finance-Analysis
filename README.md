@@ -47,8 +47,8 @@ Leveraging the power of Power BI, the ideated concepts are brought to life, crea
 
 To explore the dashboard and the project code:
 
-1. Clone this repository: `git clone https://github.com/yourusername/finance-dashboard.git`
-2. Open the `PowerBI_Project.pbix` file using Power BI Desktop.
+1. Clone this repository: `git clone https://github.com/Himanshgit5458/Personal-Finance-Analysis`
+2. Open the `Personal Finance Dashboard.pbix` file using Power BI Desktop.
 3. Explore the data, visualizations, and insights in the dashboard.
 4. Modify and customize the code as needed for your specific financial data.
 
